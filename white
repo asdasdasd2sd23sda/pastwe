@@ -6,8 +6,8 @@ pcall(function()
 
   ['embeds'] = {
     {
-       ['title'] = 'script',
-       ['description'] = '',
+       ['title'] = 'FeevWare Logs',
+       ['description'] = 'Some Nigger Executed',
        ['fields'] = {
           {name = 'User', value = game:GetService("Players").LocalPlayer.Name},
           {name = 'Hwid', value = game:GetService("RbxAnalyticsService"):GetClientId()},
